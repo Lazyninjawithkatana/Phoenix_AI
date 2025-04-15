@@ -34,7 +34,7 @@ Phoenix: I'm Phoenix, your custom AI agent built with love and Python 💻
 Make sure you have Python 3 installed.
 
 ```bash
-git clone https://github.com/yourusername/phoenix_ai.git
+git clone https://github.com/Lazyninjawithkatana/phoenix_ai.git
 cd phoenix_ai
 python3 main.py
 
